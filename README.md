@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kaiodv21
+- 👋 Hi, I’m @kaiodv21 I'm 20 years old and I'm from Brazil
 - 👀 I’m interested in Games,programming (web, database and software) and music
 - 🌱 I’m currently learning SQL Databases and Advanced C# and C++
 - 💞️ I am looking to work in these areas that I have knowledge of. 
